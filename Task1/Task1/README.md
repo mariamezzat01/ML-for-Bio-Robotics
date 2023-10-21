@@ -6,6 +6,7 @@
 - NumPy: Used for mathematical operations and array manipulation.
 - Scikit-learn: Used for linear regression model and mean square error and r-squared calculation.
 - SciPy: Used for statistical functions, including boxcox transformation.
+- Matplotlib: Used for data visualization.
 
 ## Problem Definition
 
