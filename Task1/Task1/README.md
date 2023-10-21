@@ -2,10 +2,10 @@
 
 ## Packages Used
 
--Pandas: Used for data manipulation and analysis.
--NumPy: Used for mathematical operations and array manipulation.
--Scikit-learn: Used for linear regression model and mean square error and r-squared calculation.
--SciPy: Used for statistical functions, including boxcox transformation.
+- Pandas: Used for data manipulation and analysis.
+- NumPy: Used for mathematical operations and array manipulation.
+- Scikit-learn: Used for linear regression model and mean square error and r-squared calculation.
+- SciPy: Used for statistical functions, including boxcox transformation.
 
 ## Problem Definition
 
